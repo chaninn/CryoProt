@@ -1,2 +1,2 @@
-# CryoProt
-CryoProt web server
+# CryoProtect
+CryoProtect web server
