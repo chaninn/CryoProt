@@ -30,5 +30,7 @@ To use the application:
 ### Citing this work
 If you find the CryoProtect web server useful, please cite:
 ```
-Pratiwi R, Malik AA, Schaduangrat N, Prachayasittikul V, Wikberg JES, Nantasenamat C, Shoombuatong, W. *CryoProtect: A web server for classifying antifreeze proteins from non-antifreeze proteins*. **Journal of Chemistry**, (2016) Invited Manuscript Submitted as Revision.
+Pratiwi R, Malik AA, Schaduangrat N, Prachayasittikul V, Wikberg JES, Nantasenamat C, Shoombuatong, W. CryoProtect: 
+A web server for classifying antifreeze proteins from non-antifreeze proteins. Journal of Chemistry, (2016) Invited 
+Manuscript Submitted as Revision.
 ```
